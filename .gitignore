@@ -1,0 +1,11 @@
+# Eclipse
+.settings/
+bin/
+target
+.classpath
+.project
+.git/
+
+# Intellij
+activity-scheduler.iml
+.idea/
