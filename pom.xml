@@ -51,7 +51,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.test.scheduler.Main</mainClass>
+                            <mainClass>com.anghelm.scheduler.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
